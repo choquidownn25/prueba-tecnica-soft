@@ -1,4 +1,4 @@
-# templete-hexagonal Empresa Double V Partners
+# templete-hexagonal Softtek
 API que nos permite crear, eliminar, editar y recuperar tickets con
 paginación. Que se pueda recuperar todos o filtrar por uno específico
 
